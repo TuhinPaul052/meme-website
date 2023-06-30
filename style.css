@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Poppins:ital,wght@0,200;0,300;1,300&display=swap');
+*{
+    background-color: black;
+}
+.image{
+    text-align: center;
+    margin-top: 85px;
+}
+.image img{
+    width: 50%;
+    border: 1.9px solid yellow;
+    
+}
+h1{
+    text-align: center;
+    color: #fff;
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: 13px;
+    font-size: 2rem;
+    font-weight: normal;
+
+}
+p{
+    color: #fff;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    
+}
